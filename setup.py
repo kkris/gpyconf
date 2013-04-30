@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name        = 'gpyconf',
-    version     = '0.2beta',
+    version     = '0.2',
     description = 'a modular Python configuration framework with support for multiple frontends and backends',
     author      = 'Kristoffer Kleine',
     author_email= 'kris.kleine@yahoo.de',
