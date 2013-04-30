@@ -1,10 +1,9 @@
 
-    Copyright (c) 2008-2010 Jonas Haag <jonas@lophus.org>.
+    Copyright (c) 2008-2012 Jonas Haag <jonas@lophus.org>.
     All rights reserved.
     License: 2-clause-BSD and LGPL
 
-    http://gpyconf.lophus.org
-    http://github.com/jonashaag/gpyconf
+    http://github.com/kkris/gpyconf
 
 gpyconf is dual licensed under the LGPL (GNU Lesser General Public License)
 and a slightly modified 2-clause BSD (Berkley Software Distribution)
